@@ -12,3 +12,8 @@ data/
 .vscode/
 .idea/
 .DS_Store
+
+# Geheime configuratie
+.env
+.env.*
+!.env.example
